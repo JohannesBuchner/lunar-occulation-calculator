@@ -10,6 +10,8 @@ For each candidate, it does the following:
 The latter quantity tells you whether the occultation is more head-on or grazing.
 A grazing lunar occultation is better because the occultation is slower.
 
+You need to run lunar-filter-rough.py first.
+
 Johannes Buchner (C) 2017
 """
 
